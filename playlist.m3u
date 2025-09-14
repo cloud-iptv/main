@@ -168,22 +168,22 @@ https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/fa2f92e3-67bb-4e68-b60
 #EXTINF:-1 tvg-id="ts1184" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Entertainment",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_00_02-AM.png" group-title="Entertainment",Run Short Films
+#EXTINF:-1 tvg-logo="https://admin.indiantelevision.com/sites/default/files/images/tv-images/2023/11/09/40.jpg" group-title="Entertainment",Run Short Films
 https://playout.runn.tv/playout/v1/stream/p_runshf/manifest/p_runshf/index/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_29_16-AM.png" group-title="Entertainment",Teribbly Tiny Tales
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61HglD+llVL._UF1000,1000_QL80_.jpg" group-title="Entertainment",Teribbly Tiny Tales
 https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1834" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/02/ChatGPT-Image-Apr-14-2025-03_17_38-PM.png" group-title="Entertainment",Green Chillies TV
+#EXTINF:-1 tvg-id="1834" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment",Green Chillies TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/01/ChatGPT-Image-Apr-14-2025-03_01_57-PM.png" group-title="Entertainment",Comedy Tadaka
+#EXTINF:-1 tvg-logo="https://r2.erweima.ai/imgcompressed/compressed_a4b8c95efba1ad08732c1dca6dd44e9a.webp" group-title="Entertainment",Comedy Tadaka
 https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-1-2025-08_57_00-AM.png" group-title="Entertainment",Chana Jar
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Chana-Jor_TV.jpg" group-title="Entertainment",Chana Jar
 https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
 
-#EXTINF:-1 tvg-id="3029" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-03_19_13-PM.png" group-title="Entertainment",Bollywood Masala
+#EXTINF:-1 tvg-id="3029" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/thumbh_20240213_192946.png" group-title="Entertainment",Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
 ===========================================================MOVIES=================================================================================================
@@ -1975,6 +1975,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
