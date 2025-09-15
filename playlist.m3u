@@ -1289,8 +1289,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 https://jtvp.8088yyy.workers.dev/bpk-tv/DD_Sports_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",Ten Cricket HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/sports_key.php?id=tenc
+https://mix.drmlive.net/mix/sportstenc.mpd
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1298,7 +1300,14 @@ https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=875
+https://jt.drmlive.net/jiotvplus/875.mpd
+
+#EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1294
+https://jt.drmlive.net/jiotvplus/1294.mpd
 
 #EXTINF:-1 tvg-id="1142" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1972,6 +1981,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
