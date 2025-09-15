@@ -335,46 +335,46 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 #EXTINF:-1 tvg-id="ts1499" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_33_06-PM.png" group-title="Movies",Desi Play TV
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2023/01/Desi-Play-TV.jpg" group-title="Movies",Desi Play TV
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/4cf68f50-0c5e-47a6-96e3-b78797a2b6fe/1.m3u8
 
-#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/01/ChatGPT-Image-Apr-14-2025-03_36_25-PM.png" group-title="Movies",Goldmines
+#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Goldmines.jpg" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_39_47-PM.png" group-title="Movies",Goldmines Movies
+#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_41_56-PM.png" group-title="Movies",Goldmines 2
+#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_15_50-AM.png" group-title="Movies",Cineshorts Premieres
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZAkaWIS6P60Fqe9wBKOR-zDd71od0D3Nzw7ug8ALp9A=s900" group-title="Movies",Cineshorts Premieres
 https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-14-2025-03_07_08-PM.png" group-title="Movies",Xumo Bollywood & Indian Cinema
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/600x337.webp?type=channelTile" group-title="Movies",Xumo Bollywood & Indian Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
-#EXTINF:-1  tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_59_10-AM.png" group-title="Movies",Runn Trillers
+#EXTINF:-1  tvg-id="ts7" tvg-logo="https://admin.indiantelevision.com/sites/default/files/images/tv-images/2023/11/09/40.jpg" group-title="Movies",Runn Trillers
 https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_10_38-AM.png" group-title="Movies",Runn Trillers Action
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://admin.indiantelevision.com/sites/default/files/images/tv-images/2023/11/09/40.jpg" group-title="Movies",Runn Trillers Action
 https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-7-2025-12_42_53-PM.png" group-title="Movies",Superfine Films
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Movies",Superfine Films
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM.png" group-title="Movies",NH Bollyflix
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" group-title="Movies",NH Bollyflix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_10_53-AM.png" group-title="Movies",NH Bollygold
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-09-14/2509143338007.jpg" group-title="Movies",NH Bollygold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/05/ChatGPT-Image-May-24-2025-05_22_38-PM.png" group-title="Movies",Dhamaka Movies
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://exchange4media.gumlet.io/news-photo/123954-big8.jpg" group-title="Movies",Dhamaka Movies
 https://cdn-1.pishow.tv/live/235/master.m3u8
 
-#EXTINF:-1 tvg-id="3054" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/07/ChatGPT-Image-Apr-14-2025-05_05_47-PM.png" group-title="Movies",RDC Movies
+#EXTINF:-1 tvg-id="3054" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="Movies",RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
-#EXTINF:-1 tvg-id="ts931" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/02/ChatGPT-Image-Apr-14-2025-03_17_38-PM-300x300.png" group-title="Movies",Green Chillies TV
+#EXTINF:-1 tvg-id="ts931" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Movies",Green Chillies TV
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies",BBO HD
@@ -383,7 +383,7 @@ https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512.png" group-title="Movies",BBO Classic
 https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_38_13-PM.png" group-title="Movies",Bollywood 4U
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Bollywood4u%20logo-1705933938127.png" group-title="Movies",Bollywood 4U
 https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",BOLLYWOOD MOVIES
@@ -1975,6 +1975,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
