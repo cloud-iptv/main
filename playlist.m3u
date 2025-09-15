@@ -80,18 +80,22 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET ᴴᴰ
 https://la.drmlive.net/tp/sliv-sony.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd.drmlive.net/toffee/cdn/live/sonyentertainmnt_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB ᴴᴰ
 https://la.drmlive.net/tp/sliv-sab.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SONY SAB (Airtel)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=sonysab
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.net/mix/engsonysab.mpd
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
 https://la.drmlive.net/tp/sliv-pal.m3u8
@@ -644,9 +648,8 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" group-title="English Movies", FashionTV Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/330px-Zee_Caf%C3%A9_2025.svg.png" group-title="English Movies",Zee Cafe
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="English Movies", Zee Café ᴴᴰ
@@ -1175,9 +1178,8 @@ https://jtvp.8088yyy.workers.dev/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd|Ref
 #EXTINF:-1 tvg-id="527" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Knowledge",Investigation Discovery
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-id="ts1276" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Knowledge",Investigation Discovery ᴴᴰ
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd.drmlive.net/toffee/cdn/live/discovary_investigation_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts126" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Knowledge", EPIC
@@ -1286,7 +1288,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
 https://jtvp.8088yyy.workers.dev/bpk-tv/DD_Sports_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Sports",TEN CRICKET
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",Ten Cricket HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
@@ -1422,9 +1428,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
 https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd.drmlive.net/toffee/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
@@ -1967,6 +1972,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
