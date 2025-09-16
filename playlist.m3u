@@ -441,6 +441,8 @@ https://cdn-2.pishow.tv/live/231/master.m3u8
 ###################################################################################################################################################################
                                                                       ENGLISH MOVIES
 ###################################################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="English Movies",Sony PIX
+http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX ᴴᴰ
 https://la.drmlive.net/tp/sliv-pix.m3u8
@@ -1026,7 +1028,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-id="193" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",CNN News
-https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
+http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Tv_18.png" group-title="News", CNBC TV18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
@@ -1219,6 +1221,9 @@ https://amg00136-wbd-amg00136c20-tablo-us-7190.playouts.now.amagi.tv/playlist.m3
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Knowledge",Sony BBC Earth
+http://app.hughag.store/api/3e9d231a84/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Knowledge", Sony BBC Earth ᴴᴰ
 http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
 
@@ -1369,9 +1374,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Cricket HD
-https://app.hughag.store/api/6b9c461155/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport ᴴᴰ
 https://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 
@@ -1513,7 +1515,7 @@ https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
 https://bd.drmlive.net/toffee/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
-https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
+http://app.hughag.store/api/d2586d604e/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
@@ -1610,6 +1612,112 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
+###################################################################################################################################################################
+                                                                      TOFEE TV
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" group-title="Toffee",&TV 📺
+https://app.hughag.store/api/c8b4a2b335/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Toffee",SET 📺
+http://app.hughag.store/api/bff81131e7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Toffee",Sony SAB 📺
+http://app.hughag.store/api/67380c0ffa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Toffee", Zee TV 📺
+https://app.hughag.store/api/526bde04a5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Toffee",& Pictures HD 📺
+http://app.hughag.store/api/e4b503da70/playlist.m3u8
+
+#EXTINF:-1 tvg-id="289" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Toffee", Sony Max 📺
+https://app.hughag.store/api/9bcb965282/playlist.m3u8
+
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Toffee", Sony Max 2 📺
+https://app.hughag.store/api/a5d2c9a383/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Toffee",Zee Cinema ᴴᴰ 📺
+http://app.hughag.store/api/63785f090e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Toffee",Zee Anmol 📺
+http://app.hughag.store/api/cf342d11fc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Toffee",Sony PIX 📺
+http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png" group-title="Toffee",Zee Cafe 📺
+http://app.hughag.store/api/f914787389/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Toffee",B4U Movies APAC
+https://app.hughag.store/api/33d888b898/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Toffee",B4U Music APAC 📺
+https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Toffee",Animal Planet 📺
+http://app.hughag.store/api/ac7673685c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Toffee",Discovery HD 📺
+http://app.hughag.store/api/bc508cf627/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgYHbLoXscJ-1IK-Zl5EcVyBg1ZhfhkDHJAw&s" group-title="Toffee",Discovery Science 📺
+http://app.hughag.store/api/7077164c21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2025-06-18/250618541020.jpg" group-title="Toffee",Discovery Turbo 📺
+http://app.hughag.store/api/5804d89e97/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Toffee",Investigation Discovery HD 📺
+http://app.hughag.store/api/7e70626a3c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Toffee",Sony BBC Earth 📺
+http://app.hughag.store/api/3e9d231a84/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2025-06-18/250618571023.jpg" group-title="Toffee",TLC  📺
+http://app.hughag.store/api/8ea645b228/playlist.m3u8
+
+#EXTINF:-1 tvg-id="193" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="Toffee",CNN News
+http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts812" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Toffee",Eurosport ᴴᴰ
+https://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Toffee",Ten Cricket 📺
+https://app.hughag.store/api/6b9c461155/playlist.m3u8
+
+#EXTINF:-1 tvg-id="514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Toffee", Sony TEN 1 📺
+http://app.hughag.store/api/762cf859a8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Toffee", Sony TEN 2 📺
+http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
+
+#EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Toffee",Sony TEN 5 📺
+http://app.hughag.store/api/d74ec2f219/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Toffee",Cartoon Network 📺
+https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Toffee",Pogo 📺
+http://app.hughag.store/api/d2586d604e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids.png" group-title="Toffee",Discovery Kids 📺
+http://app.hughag.store/api/aec911dc04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Toffee",Sony Yay 📺
+http://app.hughag.store/api/b45f637d05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Toffee",Hum TV 📺
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Toffee",Sony Aath 📺
+http://app.hughag.store/api/b6a720edea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Toffee",Zee Bangla 📺
+http://app.hughag.store/api/154d534216/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Zee_bangla_cinema.png" group-title="Toffee",Zee Bangla Cinema 📺
+http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 
 ###################################################################################################################################################################
                                                                       JTV +
@@ -2655,10 +2763,6 @@ https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="SmartTV",&TV ᴴᴰ
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="SmartTV",SET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://app.hughag.store/api/bdb9301d44/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ts126" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="SmartTV", EPIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic/master.m3u8
 
@@ -2758,7 +2862,7 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
 #EXTINF:-1 tvg-id="440" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="SmartTV",9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="SmartTV",B4U Music
 https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts224" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="SmartTV",E24
@@ -3433,6 +3537,7 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
+
 
 
 
