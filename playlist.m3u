@@ -77,6 +77,9 @@ https://la.drmlive.net/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo ᴴᴰ
 https://playyonogames.in/live.php?id=3088|Referer=https://playyonogames.in
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://atrangii.in/assets/img/brand/logo-small.webp" group-title="Entertainment",Atrangii's FAST
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors ᴴᴰ
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 
@@ -121,9 +124,6 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Entertainment",Z Horror Night
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.adgully.com/img/800/201911/new-logo-for-print.png" group-title="Entertainment", The Lallantop
-https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment", Star Plus
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
@@ -735,9 +735,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
                                                                       MUSIC
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://atrangii.in/assets/img/brand/logo-small.webp" group-title="Music",Atrangii's FAST
-https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
-
 #EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
@@ -1184,6 +1181,9 @@ https://cdn-1.pishow.tv/live/17/master.m3u8
 
 #EXTINF:-1 tvg-id="ts316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Knowledge",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/New-Logo-For-Print-_1_-770.jpeg" group-title="Knowledge", The Lallantop
+https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts219" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Knowledge",Discovey Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3537,6 +3537,7 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
+
 
 
 
