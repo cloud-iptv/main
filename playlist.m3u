@@ -375,7 +375,7 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 https://cdn-1.pishow.tv/live/235/master.m3u8
 
 #EXTINF:-1 tvg-id="3054" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="Movies",RDC Movies
-https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
 
 #EXTINF:-1 tvg-id="ts931" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Movies",Green Chillies TV
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8
@@ -402,15 +402,15 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts1506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Movies",Dabangg
-https://hls.dabangasudan.org/hls/stream.m3u8
+https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Movies",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:-1 tvg-id="ts830" tvg-logo="https://epicon.in/img/new_filamchi_logo.png" group-title="Movies",Filmachi Bhojpuri
-https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 
-#EXTINF:-1 tvg-id="1366" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wow_Cinema_One.png" group-title="Movies",Filmachi Bhojpuri
+#EXTINF:-1 tvg-id="1366" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wow_Cinema_One.png" group-title="Movies",WOW Cinema
 https://cdn-2.pishow.tv/live/231/master.m3u8
 
 ###################################################################################################################################################################
@@ -2666,9 +2666,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="SmartTV",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3054" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/07/ChatGPT-Image-Apr-14-2025-05_05_47-PM.png" group-title="SmartTV",RDC Movies
-https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
-
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/01/ChatGPT-Image-Apr-14-2025-03_25_19-PM.png" group-title="SmartTV",Korean TV
 https://amg02537-skandhamediaser-koreantv-samsungin-ad-1s.amagi.tv/playlist/amg02537-skandhamediaser-koreantv-samsungin/playlist.m3u8
 
@@ -3389,6 +3386,7 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
+
 
 
 
