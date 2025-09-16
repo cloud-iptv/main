@@ -312,10 +312,13 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 https://app.hughag.store/api/33d888b898/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3075" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitalstudioindia.com/cloud/2025/09/07/rsz_gzqqg97ayaag0ar.png" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1151" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="Movies",Rangamanch
+https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onezoo.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_58_41-PM-1.jpg" group-title="Movies",Hitz Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -817,9 +820,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/lokshahinews/master.m3u8
 
 #EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="News", Jai Maharashtra
 https://live.dinesh29.com.np/stream/jiotvplus/jaimaharashtra/master.m3u8
-
-#EXTINF:-1 tvg-id="1151" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="News",Rangamanch
-https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3179" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Marathi_24x7.png" group-title="News",News Marathi 24x7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8
@@ -2661,9 +2661,6 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3075" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="SmartTV",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="SmartTV",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 
@@ -3387,6 +3384,7 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
+
 
 
 
