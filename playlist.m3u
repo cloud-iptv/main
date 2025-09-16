@@ -119,6 +119,9 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Entertainment",Z Comedy Nation
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Entertainment",Z Horror Night
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.adgully.com/img/800/201911/new-logo-for-print.png" group-title="Entertainment", The Lallantop
 https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8
 
@@ -351,8 +354,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://onezoo.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_53_44-PM-1.jpg" group-title="Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts1050" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/61e549419a097e44b3cfb289/1642421802122/Abzy-movies%20logo%201_logo.jpg" group-title="Movies", ABZY Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/x1zWSRIJiegEJo1NIeciHSh9yaW1taxaIjsQKlt4O0-BvcIQ_dKYsNaxQkvuxM2_9b6tnL2CkA=s900" group-title="Movies", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Abzy_Dhakad.jpg" group-title="Movies", ABZY Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 
 #EXTINF:-1 tvg-id="ts1499" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
@@ -726,6 +732,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 ###################################################################################################################################################################
                                                                       MUSIC
 ###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2025/07/Atrangii-1.jpg" group-title="Music",Atrangii's FAST
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
@@ -1201,6 +1210,9 @@ http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Knowledge", Discovery Science
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts228" tvg-logo="https://img.freepik.com/free-vector/science-banner-with-doodle-icons_1308-132177.jpg" group-title="Knowledge",Science is Amazing
+https://amg00136-wbd-amg00136c20-tablo-us-7190.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts228" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Knowledge",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3415,6 +3427,7 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
+
 
 
 
