@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1132" tvg-name="My DRM Channel" group-title="DRM",My DRM Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playyonogames.in/dlive.php?id=1132&wvlic=true
 https://playyonogames.in/dlive.php?id=1132&format=.mpd|Referer=https://playyonogames.in
