@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Modified for ClearKey DRM: Widevine removed, only CENC with KID present -->
+<!-- Modified for ClearKey DRM: Widevine removed, ClearKey added -->
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
      xmlns="urn:mpeg:dash:schema:mpd:2011" 
      xmlns:cenc="urn:mpeg:cenc:2013" 
@@ -18,8 +18,9 @@
 
     <AdaptationSet id="1" group="1" contentType="audio" lang="hi" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <!-- Common Encryption -->
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="6F7B7241B2935A909D389FE5BAAA"/>
+      <!-- ClearKey Content Protection -->
+      <ContentProtection schemeIdUri="urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e" value="ClearKey"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="6f7b7241b2935a909d389fe5baaa"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000" initialization="Star_Plus_HD_BTS-$RepresentationID$.dash" media="Star_Plus_HD_BTS-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
@@ -60,8 +61,9 @@
     </AdaptationSet>
 
     <AdaptationSet id="2" group="2" contentType="video" par="16:9" minBandwidth="1272000" maxBandwidth="3724000" maxWidth="1920" maxHeight="1080" segmentAlignment="true" sar="1:1" frameRate="25" mimeType="video/mp4" startWithSAP="1">
-      <!-- Common Encryption -->
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="6F7B7241B2935A909D389FE5BAAA"/>
+      <!-- ClearKey Content Protection -->
+      <ContentProtection schemeIdUri="urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e" value="ClearKey"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="6f7b7241b2935a909d389fe5baaa"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="600" initialization="Star_Plus_HD_BTS-$RepresentationID$.dash" media="Star_Plus_HD_BTS-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
