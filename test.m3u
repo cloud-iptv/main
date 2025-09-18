@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1132" tvg-name="My DRM Channel" group-title="DRM",My DRM Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playyonogames.in/dlive.php?id=1132&wvlic=true
-#KODIPROP:inputstream.adaptive.license_key_header=Referer=https://playyonogames.in
-https://playyonogames.in/dlive.php?id=1132&format=.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+https://raw.githubusercontent.com/cloud-iptv/main/refs/heads/main/Star_Plus_HD.mpd
