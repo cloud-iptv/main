@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST 📺
-https://playyonogames.in/dlive.php?id=1132&format=.mpd|Referer=https://onezoo.net
+#EXTINF:-1 tvg-id="1132" tvg-name="My DRM Channel" group-title="DRM",My DRM Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playyonogames.in/dlive.php?id=1132&wvlic=true|Referer=https://onezoo.net|
+https://playyonogames.in/dlive.php?id=1132&format=.mpd|Referer=https://onezoo.net|
