@@ -5,4 +5,4 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playyonogames.in/dlive.php?id=1132&wvlic=true
 #KODIPROP:inputstream.adaptive.license_key_header=Referer=https://playyonogames.in
-https://playyonogames.in/dlive.php?id=1132&format=.mpd|Referer=https://playyonogames.in
+https://playyonogames.in/dlive.php?id=1132&format=.mpd
