@@ -3,5 +3,5 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe5baaa:65783311644973348f359dc154bb41db
-https://raw.githubusercontent.com/cloud-iptv/main/refs/heads/main/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=6f7b7241b2935a909d389fe5baaa&key=65783311644973348f359dc154bb41db
+https://playyonogames.in/dlive.php?id=1132|Referer=https://playyonogames.in
