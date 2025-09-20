@@ -1,1 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Smart-SmartTV",SET
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
+https://bd.drmlive.net/toffee/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Smart-SmartTV",Sony SAB
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
+https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png" group-title="Smart-SmartTV",Zee Cafe
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
+https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Smart-SmartTV",Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
+https://bd.drmlive.net/toffee/cdn/live/cartoon_network_hd/playlist.m3u8
