@@ -1,85 +1,84 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Smart-Tata Play",& TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Smart-Tata Play",SET ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/SONY_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Smart-Tata Play",Sony SAB ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Smart-Tata Play", Colors ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Smart-Tata Play", Zee TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Smart-Tata Play", & Flix ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Smart-Tata Play", & Prive ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Smart-Tata Play", & Pictures ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Smart-Tata Play",Sony Max ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Smart-Tata Play",Zee Cinema ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Smart-Tata Play", Zee Café ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Smart-Tata Play",Sony PIX ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="286" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Smart-Tata Play",Animal Planet ᴴᴰ World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts137" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic.png" group-title="Smart-Tata Play",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts605" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Smart-Tata Play",National Geographic ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts413" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Smart-Tata Play",Nat Geo Wild ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Smart-Tata Play", Sony BBC Earth ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts382" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Smart-Tata Play",Zee Zest ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Smart-Tata Play", Sony TEN 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Smart-Tata Play", Sony TEN 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Smart-Tata Play", Sony TEN 3 ᴴᴰ Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebKit/537.3 (KHTML, like Gecko) SmartTV Safari/537.3
 http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
-
