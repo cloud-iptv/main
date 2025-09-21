@@ -1,2 +1,4 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Smart-Sports",Star Sports 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
+https://tv.vaanam24.com/live.m3u8?c=STARSPORTS1HD
