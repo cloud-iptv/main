@@ -1,4 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Smart-Sports",Star Sports 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
-https://tv.vaanam24.com/live.m3u8?c=STARSPORTS1HD
+###################################################################################################################################################################
+#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SLIV",SET ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SLIV",Sony SAB ᴴᴰ
+https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SLIV",Sony Marathi
+https://nxtlive.net/sliv/play.php?c=1000009259|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SLIV",Sony Pal
+https://nxtlive.net/sliv/stream.php?id=985663255656&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SLIV",Sony Max ᴴᴰ
+https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", Sony Max
+https://nxtlive.net/sliv/stream.php?id=9456780256&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SLIV", Sony Max 2
+https://nxtlive.net/sliv/stream.php?id=9489060256&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SLIV", Sony Wah
+https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8|Referer=https://nxtlive.net
+	
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SLIV",Sony PIX ᴴᴰ
+https://nxtlive.net/sliv/stream.php?id=948000056&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="SLIV", Sony BBC Earth ᴴᴰ
+https://nxtlive.net/sliv/stream.php?id=943567856&e=.m3u8|Referer=https://nxtlive.net
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SLIV",Sony Yay
+https://nxtlive.net/sliv/play.php?c=1000001971|Referer=https://nxtlive.net
