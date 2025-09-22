@@ -1,5 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sgo320" tvg-name="Sony SAB" tvg-language="Hindi" tvg-logo="https://metaimg.sundirectgo.in/143230/250x250_SAB_143230_bb666a8a-3a4f-4e89-84d3-d393fbda438d.png" group-title="SonyLiv🎶Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sundirectgo.joker-verse.workers.dev/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://sundirectgo.joker-verse.workers.dev/widevine?uid=5404507962&pass=7b56fef2
 https://sundirectgo-live.pc.cdn.bitgravity.com/src72/dth.mpd
+
+#EXTINF:-1 group-title="Test",TEST 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
+
+#EXTINF:-1 group-title="Test",TEST 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36345ee8f2c44b3bfeecd8c8444ff96:da4cf1b9b4f4325477874b3f1b84d9b9
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd
+
+#EXTINF:-1 group-title="Test",TEST 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd
+
+#EXTINF:-1 group-title="Test",TEST 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd
+
+#EXTINF:-1 group-title="Test",TEST 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd
