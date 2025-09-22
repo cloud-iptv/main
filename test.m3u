@@ -3,3 +3,6 @@
 #KODIPROP:inputstream.adaptive.license_key=ff7ed9f93e064d57ab5064dfd4c065fe:00112233445566778899aabbccddeeff
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Smart-JTV+", Test
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Smart-JTV+", Test2
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
