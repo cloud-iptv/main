@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sgo320" tvg-name="Sony SAB" tvg-language="Hindi" tvg-logo="https://metaimg.sundirectgo.in/143230/250x250_SAB_143230_bb666a8a-3a4f-4e89-84d3-d393fbda438d.png" group-title="SonyLiv🎶Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sundirectgo.joker-verse.workers.dev/widevine
-#EXTVLCOPT:http-user-agent=@joker_verse
+#KODIPROP:inputstream.adaptive.license_key=https://sundirectgo.joker-verse.workers.dev/widevine?uid=5404507962&pass=7b56fef2
 https://raw.githubusercontent.com/GitCoderKD/cdn/refs/heads/main/error_dash/error.mpd
