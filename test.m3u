@@ -4,4 +4,4 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://delta45webtatasky.akamaized.net/out/i/554.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
+https://delta45webtatasky.akamaized.net/out/i/554.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
