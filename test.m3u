@@ -2,4 +2,4 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.jokerverse01.workers.dev/keys.json?id=287&contentId=400000297
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://tataplay.jokerverse01.workers.dev/manifest.mpd?id=287|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&X-User-Agent="TiviMate/4.7"
+https://tataplay.jokerverse01.workers.dev/manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
