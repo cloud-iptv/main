@@ -1,5 +1,1 @@
-#EXTINF:-1 tvg-id="ts287" tvg-name="Animal Planet HD World" tvg-language="English" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Tataplay🎭Knowledge" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", Animal Planet HD World
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.jokerverse01.workers.dev/keys.json?id=287&contentId=400000297
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://tataplay.jokerverse01.workers.dev/manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+
