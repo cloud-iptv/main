@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Smart-Marathi", Zee Talkies ᴴᴰ
-https://la.drmlive.net/tp/zee-zeetalkies.m3u8|user-agent=Mozilla/5.0
+https://la.drmlive.net/tp/zee-zeetalkies.m3u8|User-Agent=Mozilla/5.0
 ==================================================================Sampal==============================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
