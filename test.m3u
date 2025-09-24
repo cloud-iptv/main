@@ -1,9 +1,9 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2c22812093c4d16ad3e4180639a9579:6f0dd61d4ea71e912f813a495205242c
 #EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="TSneh Spiritual",Shirdi Sai Baba
-https://delta45tatasky.akamaized.net/out/i/554.mpd
+https://delta45tatasky.akamaized.net/out/i/722.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
