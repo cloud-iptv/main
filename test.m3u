@@ -1,5 +1,10 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7c5057c72c40799e2bcbce69aad141:af9cbaa701db17f8be30efe9222358b0
+#EXTINF:-1 tvg-id="790" group-title="Punjabi" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v2/imageContent-48807-k4m7ud0o-m2.png",Ek Onkar
+https://delta45tatasky.akamaized.net/out/i/1357.mpd
+
 #EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="" ch-number="19" tvg-logo="https://get.perfecttv.net/logo/thrill.png",138 Thrill
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
