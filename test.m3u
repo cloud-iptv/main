@@ -1,30 +1,41 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7c5057c72c40799e2bcbce69aad141:af9cbaa701db17f8be30efe9222358b0
-#EXTINF:-1 tvg-id="790" group-title="Punjabi" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v2/imageContent-48807-k4m7ud0o-m2.png",Ek Onkar
-https://delta45tatasky.akamaized.net/out/i/1357.mpd
-
-#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="" ch-number="19" tvg-logo="https://get.perfecttv.net/logo/thrill.png",138 Thrill
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/Thrill
-https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-id="IndiKids" tvg-name="IndiKids" group-title="ANAK - ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
-https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="TV NASIONAL", AllPlay Ent 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
-#EXTINF:-1 tvg-id="ts842" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="TSneh Spiritual",Somnath Temple
+#KODIPROP:inputstream.adaptive.license_key=a2c22812093c4d16ad3e4180639a9579:6f0dd61d4ea71e912f813a495205242c
+#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="TSneh Spiritual",Somnath Temple
 https://delta45tatasky.akamaized.net/out/i/722.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae23c4ee57014d289e0821adbbdfebf9:79094e073e3191e25052b444ca09da4f
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST1
+https://delta45tatasky.akamaized.net/out/i/554.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f4bab3e95124e4da751b32b4f7ecaae:095eb4e4d70cab08f4b3cad52a24f6fc
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST2
+https://delta45tatasky.akamaized.net/out/i/1201.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7c5057c72c40799e2bcbe639aac541:af9cbaaf07705ef8bf30effa4888d62c
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST3
+https://delta45tatasky.akamaized.net/out/i/1357.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4001ba5c5fe443cdafbcbccc4fff6bf5:aa4c75fea912156f7009c1a28c854159
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TE4T
+https://delta45tatasky.akamaized.net/out/i/1175.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c261e6bdade947fd9c8598765267df35:51d0966cb265ba250ec5eda0ff6bc0a8
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST5
+https://delta13tatasky.akamaized.net/out/i/5616001.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d5abce19f94974af94d7bba057b9e1:c3687c67cc8fee1e8f6e0df6a4560903
+#EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST5
+https://delta45tatasky.akamaized.net/out/i/1412.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,44 +49,12 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 #KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 3
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=5b3cfafda2f14eb28697912b93b29a2c&key=11f6d476c5f5e809f7392f03ce207b6f
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 6
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=5b3cfafda2f14eb28697912b93b29a2c&key=11f6d476c5f5e809f7392f03ce207b6f
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=5b3cfafda2f14eb28697912b93b29a2c&key=11f6d476c5f5e809f7392f03ce207b6f
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://wv-keyos.licensekeyserver.com/
-https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 9
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://pr-keyos.licensekeyserver.com/core/rightsmanager.asmx
-https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
