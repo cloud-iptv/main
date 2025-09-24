@@ -34,20 +34,20 @@ https://delta45tatasky.akamaized.net/out/i/1331.mpd
 #KODIPROP:inputstream.adaptive.license_key=d5d63b0a03024c3f9905d98d9a6861cf:5e929e34c5cd4e4745fe388a281250c0
 #EXTINF:-1 tvg-id="ts840" tvg-logo="" group-title="TSneh Spiritual", TEST6
 https://delta45tatasky.akamaized.net/out/i/1347.mpd
-==================================================================Sample==============================================================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 1
+==================================================================Sampal==============================================================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
