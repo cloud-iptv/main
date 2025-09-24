@@ -1,11 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:5
-
-#EXTINF:6.0,
-https://freelivtv.xyz/m3u8/ac_m3u8/ac_m3u8/stream5.ts
-#EXTINF:6.0,
-https://freelivtv.xyz/m3u8/ac_m3u8/ac_m3u8/stream6.ts
-#EXTINF:6.0,
-https://freelivtv.xyz/m3u8/ac_m3u8/ac_m3u8/stream7.ts
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="Smart-Watcho", Zee Marathi
+https://playyonogames.in/jio/app/ts_live_3071.m3u8
