@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_Asia.png" group-title="Smart-Watcho",TV Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_Asia.png" group-title="Smart-Watcho",TV Asia
 https://playyonogames.in/jio/app/ts_live_3071.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_Asia.png" group-title="Smart-Entertainment", TV Asia
