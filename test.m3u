@@ -5,10 +5,14 @@
 #EXTVLCOPT:inputstream.adaptive.license_key=5b3cfafda2f14eb28697912b93b29a2c:11f6d476c5f5e809f7392f03ce207b6f
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd40/dth.mpd
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST2
 #EXTVLCOPT:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:inputstream.adaptive.license_key=https://wv-keyos.licensekeyserver.com/
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="TEST",TEST3
+#EXTVLCOPT:inputstream.adaptive.license_type=com.microsoft.playready
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.license_key=https://pr-keyos.licensekeyserver.com/core/rightsmanager.asmx
+https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
