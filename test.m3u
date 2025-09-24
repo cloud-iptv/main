@@ -1,7 +1,13 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:-1 tvg-id="ts618" tvg-name="Tata Play Beauty" tvg-language="English" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="Tataplay🎭Lifestyle" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", Tata Play Beauty
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://delta45webtatasky.akamaized.net/out/i/554.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#EXTINF:10.0,
+video0.ts
+#EXTINF:10.0,
+video1.ts
+#EXTINF:10.0,
+video2.ts
+
+#EXT-X-ENDLIST
