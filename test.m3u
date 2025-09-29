@@ -1,13 +1,5 @@
 
-####################################################################################################################################################################
-
-hbo hb in astro
-
-#EXTINF:-1 group-title="Smart-Astro Go" tvg-logo="https://pictr.com/images/2025/01/14/x12W9P.png",Crime + Investigation
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-==================================================================Sample==============================================================================================
+==================================================================Sampal=============================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
