@@ -3,7 +3,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 ==================================================================Sampal=============================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png"  group-title="Sampal",TEST 1
