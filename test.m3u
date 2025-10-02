@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-id="ts559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment",SONY SAB (Airtel)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=sonysab
-#EXTVLCOPT:http-user-agent=third-party
+#EXTVLCOPT:http-user-agent=TiviMate/6.0.0 (Android)
 https://mix.drmlive.net/mix/engsonysab.mpd
