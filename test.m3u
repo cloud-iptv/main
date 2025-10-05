@@ -2,15 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:1d3f25cdd5a449b580ea6e3438fd2419
+#KODIPROP:inputstream.adaptive.license_key=1d3f25cdd5a449b580ea6e3438fd2419:0123456789abcdef0123456789abcdef:
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:ff7ed9f93e064d57ab5064dfd4c065fe
+#KODIPROP:inputstream.adaptive.license_key=ff7ed9f93e064d57ab5064dfd4c065fe:0123456789abcdef0123456789abcdef
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:65c3633157574361b191059e46e72968
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:0123456789abcdef0123456789abcdef
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zYTtE2sMxx-KuM1NT2ouTA","kid":"A8Lgry-BWfnwzptdvIZfEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="197" group-title="Sports", Astro Cricket
+https://yg-two.vercel.app//2504/default_ott.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4
