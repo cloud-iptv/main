@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=29f970f3bdef4935b7b2b6ace0316266:ff7ed9f93e064d57ab5064dfd4c065fe
+#KODIPROP:inputstream.adaptive.license_key=ff7ed9f93e064d57ab5064dfd4c065fe:0123456789abcdef0123456789abcdef
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd/default/manifest.mpd
