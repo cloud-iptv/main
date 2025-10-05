@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",ABP MAZA
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="News", News Nation
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="TEST", News Nation
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1179148ecf241de8111f216f4540f2c:0123456789abcdef0123456789abcdef
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/manifest.mpd
@@ -31,4 +28,4 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zYTtE2sMxx-KuM1NT2ouTA","kid":"A8Lgry-BWfnwzptdvIZfEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="197" group-title="Sports", Astro Cricket
-https://yg-two.vercel.app//2504/default_ott.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4
+https://yg-two.vercel.app/2504/default_ott.mpd|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4
