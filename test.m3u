@@ -1,5 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="Watcho",TEST
+
+#EXTINF:-1 tvg-id="ts1463" tvg-name="Express News Bharat" tvg-language="H" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ExpressBharat_Thumbnail-v1/ExpressBharat_Thumbnail.png" group-title="Tataplay🎭News" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", Express News Bharat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cable16tatasky.akamaized.net/dash/enbnews.mpd
+
+#EXTINF:-1 tvg-id="ts1079" tvg-name="TTN 24" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TTN24_Thumbnail-v2/TTN24_Thumbnail.png" group-title="Tataplay🎭News" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", TTN 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.jokerverse.workers.dev/keys.json?id=1079&contentId=400001245&uid=5404507962&pass=7b56fef2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://delta45webtatasky.akamaized.net/out/i/1327.mpd?uid=5404507962&pass=7b56fef2|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&X-User-Agent="TiviMate/5.2.0 (Android 11)"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0ff467c0efc4dfea225150c4a4747f2:767ebb6cdf7bab364b967d167558d714
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/MEDIA%209.webp" group-title="None", MEDIA 9
+https://delta45tatasky.akamaized.net/out/i/1445.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d5cf9203a5a4cc79199d627c9c75f1f:720a6d5715d1ef228d07f95c4db23adf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Shri%20ISKCON%20Girgaon%2C%20Mumbai.webp" group-title="None", Shri ISKCON Girgaon, Mumbai
+https://delta45tatasky.akamaized.net/out/i/910.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b01f062c5c9243059204b361123678fb:fa7103f124f2b29bf0a4e0c3dca4df21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Shri%20Ganga%20Aarti%2C%20Varanasi.webp" group-title="None", Shri Ganga Aarti, Varanasi
+https://delta45tatasky.akamaized.net/out/i/905.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f507cc79c9f545779993ff40a874197b:342265e4d0d4ddc51b263bc57ec73dbb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Live%20Patna%20Sahib%20Patna.webp" group-title="Spiritual", Live Patna Sahib Patna
+https://delta45tatasky.akamaized.net/out/i/496.mpd
+
+#EXTINF:-1 tvg-id="ts1371" tvg-name="BVG" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BVG_Thumbnail-v1/BVG_Thumbnail.png" group-title="Tataplay🎭Lifestyle" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", BVG
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.jokerverse.workers.dev/keys.json?id=1371&contentId=400001496&uid=5404507962&pass=7b56fef2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://delta45webtatasky.akamaized.net/out/i/1673.mpd?uid=5404507962&pass=7b56fef2|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&X-User-Agent="TiviMate/5.2.0 (Android 11)"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=805e7c10c60c4ec9a075de2150caac9a:5d6154f4c398f4d280555cf61181f73c
+#EXTINF:-1 tvg-id="1290" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVRIW_Thumbnail-v2/TVRIW_Thumbnail.png" ,TVRI World
+https://delta45tatasky.akamaized.net/out/i/1537.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c261e6bdade947fd9c8598765267df35:51d0966cb265ba250ec5eda0ff6bc0a8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Toons%2B.webp" group-title="None", Tata Play Toons+ 1
+https://delta13tatasky.akamaized.net/out/i/5615195.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdec1edfce0432ba38dc523a1ccfd99:dfb153ae7851be2daa7e983c9c6553eb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Toons%2B.webp" group-title="None", Tata Play Toons+ 2
+https://delta14tatasky.akamaized.net/out/i/7253194.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3666ce00058a4aaba1caf68ec7430f78:26390647041d20a80ea1b7a1972a5861
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Toons%2B.webp" group-title="None", Tata Play Toons+ 3
+https://delta13tatasky.akamaized.net/out/i/5616001.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4001ba5c5fe443cdafbcbccc4fff6bf5:aa4c75fea912156f7009c1a28c854159
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/In%20Goa%2024x7.webp" group-title="Regional Marathi", In Goa 24x7
+https://delta45tatasky.akamaized.net/out/i/1175.mpd
+
+#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="None",TEST
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="Watcho",DD National
