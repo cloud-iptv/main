@@ -1,12 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="805" group-title="ASTRO" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642",805 Astro SuperSport UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Evergreen Hits
+https://colorsportscreen.com/freetv/play.php?c=a0756ba769dd|Referer=https://oxolive.com
+
+#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Hindi Hits HD
+https://colorsportscreen.com/freetv/play.php?c=358a95e39026|Referer=https://oxolive.com
+
+#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Sonery Cinema
+https://fucking-tv-ott.keralive.workers.dev/mumt04/SONERICINEMA/index.m3u8|Referer=https://oxolive.com
 #####################################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="Watcho",DD National
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
