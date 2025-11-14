@@ -1,15 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Evergreen Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://colorsportscreen.com/freetv/play.php?c=a0756ba769dd|Referer=https://oxolive.com
-
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Hindi Hits HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://colorsportscreen.com/freetv/play.php?c=358a95e39026|Referer=https://oxolive.com
-
-#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",Sonery Cinema
-https://fucking-tv-ott.keralive.workers.dev/mumt04/SONERICINEMA/index.m3u8|Referer=https://oxolive.com
+#EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST
 #####################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="Watcho",DD National
