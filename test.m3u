@@ -1,20 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST
 #####################################################################################################################################################################
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Hindi Hits HD
-https://fucking-tv-ott.keralive.workers.dev/mumt01/HINDIHITS/index.m3u8|Referer=https://onezoo.net/
-
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Vision Beats
-https://onezoo.net/tv/restream-tv/stream.m3u8?id=3c32ae7ca433|Referer=https://onezoo.net/
-
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Bollywood Non stop HD
-https://onezoo.net/tv/restream-tv/Play.php?c=1160e0e7ca2d|Referer=https://onezoo.net/
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d|Referer=https://onezoo.net/
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Classic Hits
 https://fucking-tv-ott.keralive.workers.dev/mumt03/CLASSICHITS/index.m3u8|Referer=https://onezoo.net/
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Bollywood Non stop HD
-https://onezoo.net/tv/restream-tv/Play.php?c=3c32ae7ca433|Referer=https://onezoo.net/
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=3c32ae7ca433|Referer=https://onezoo.net/
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="JioTV➕Music",Melodi Hits
 https://fucking-tv-ott.keralive.workers.dev/mumt03/MELODYHITS/index.m3u8|Referer=https://onezoo.net/
@@ -153,23 +147,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/09/x1bcgO.png",Colors Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG0vj.png",Radio India Beat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
-https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x12rI8.png",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4                                         
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
