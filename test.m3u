@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv" group-title="TEST",TEST
 #####################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://raw.githubusercontent.com/cloud-iptv/main/refs/heads/main/images/BollywoodNonStopHD.png" group-title="JioTV➕Music",Classic Hits
-https://fucking-tv-ott.keralive.workers.dev/mumt03/CLASSICHITS/index.m3u8|Referer=https://onezoo.net/
-
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://raw.githubusercontent.com/cloud-iptv/main/refs/heads/main/images/BollywoodNonStopHD.png" group-title="JioTV➕Music",Melodi Hits
-https://fucking-tv-ott.keralive.workers.dev/mumt03/MELODYHITS/index.m3u8|Referer=https://onezoo.net/
