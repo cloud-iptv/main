@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM 576p
-https://mumt01.tangotv.in/9XM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
@@ -21,16 +19,4 @@ https://9x.cdn.runn.tv/9XM/HD1080/HD1080.m3u8
 https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
-https://cdn-2.pishow.tv/live/415/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
-https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
-
-#EXTINF:-1 tvg-id="ts1512" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Music",YRF Music
-https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/m1.m3u8
