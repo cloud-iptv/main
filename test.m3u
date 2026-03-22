@@ -20,3 +20,9 @@ https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-id="ts224" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
+https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-id="ts224" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
+http://longstream-06.ajaah.com/PlayBoxTV/E24/playlist.m3u8
