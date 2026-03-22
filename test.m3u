@@ -21,8 +21,20 @@ https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
-#EXTINF:-1 tvg-id="ts224" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-id="ts224" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Smart⚡Music",E24
 http://longstream-06.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Smart⚡Movies",NH Bollyflix
+https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Smart⚡Movies",NH Bollyflix
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Smart⚡Movies",NH Bollyflix
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Smart⚡Movies",NH Bollyflix
+https://csm-e-cesharedlsgsin2live-87593227.bln1.yospace.com/csm/extlive/runntvprd01,nhbollyragavidaa2.m3u8?yo.up=https://nh-vidaa-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/manifest/
