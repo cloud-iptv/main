@@ -1,6 +1,321 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+###################################################################################################################################################################
+                                                                   MARATHI
+###################################################################################################################################################################
+#EXTINF:-1 tvg-id="158237" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Colors_Marathi.png" group-title="Airtel🌹Marathi",COLORS MARATHI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373438&extension=ts
+#EXTINF:-1 tvg-id="157970" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/sonymarathi.png" group-title="Airtel🌹Marathi",SONY MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373436&extension=ts
+#EXTINF:-1 tvg-id="143735" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Star_Pravah_2019_slogan.png" group-title="Airtel🌹Marathi",SAAM TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373434&extension=ts
+#EXTINF:-1 tvg-id="144458" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Zee_Marathi_2017_logo.png" group-title="Airtel🌹Marathi",ZEE MARATHI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373433&extension=ts
+#EXTINF:-1 tvg-id="144469" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Zee_talkies_hd.png" group-title="Airtel🌹Marathi",ZEE TALKIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373432&extension=ts
+#EXTINF:-1 tvg-id="144481" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeeyuva.png" group-title="Airtel🌹Marathi",ZEE YUVA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372921&extension=ts
+#EXTINF:-1 tvg-id="142803" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/ddsahyadri.png" group-title="Airtel🌹Marathi",DD SAHYADRI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373431&extension=ts
+#EXTINF:-1 tvg-id="144433" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Zee-24-taas.png" group-title="Airtel🌹Marathi",ZEE 24 TAAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373429&extension=ts
+#EXTINF:-1 tvg-id="143284" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ibnlokmat.png" group-title="Airtel🌹Marathi",LOKSHAHI MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372917&extension=ts
+#EXTINF:-1 tvg-id="144030" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/TV9_Marathi.png" group-title="Airtel🌹Marathi",TV9 MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373428&extension=ts
+#EXTINF:-1 tvg-id="143614" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/IDN LOKMAT.png" group-title="Airtel🌹Marathi",NEWS18 MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433169&extension=ts
+#EXTINF:-1 tvg-id="143038" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/tuljabhavani.png" group-title="Airtel🌹Marathi",FAKT MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png" group-title="Airtel🌹Marathi",LATEST CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=734358&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png" group-title="Airtel🌹Marathi",CLASSIC CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=734357&extension=ts
+
+###################################################################################################################################################################
+                                                                   ENTERTAINMENT
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="142641" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/& TV HD.png" group-title="Airtel🌹Entertainment",&TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944622&extension=ts
+#EXTINF:-1 tvg-id="143832" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR PLUS FHD.png" group-title="Airtel🌹Entertainment",STAR PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=671571&extension=ts
+#EXTINF:-1 tvg-id="159132" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="Airtel🌹Entertainment",UTSAV PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=824004&extension=ts
+#EXTINF:-1 tvg-id="144478" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="Airtel🌹Entertainment",UTSAV PLUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372700&extension=ts
+#EXTINF:-1 tvg-id="144479" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE TV HD.png" group-title="Airtel🌹Entertainment",ZEE TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=735398&extension=ts
+#EXTINF:-1 tvg-id="144479" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeetv.png" group-title="Airtel🌹Entertainment",ZEE TV HD UK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=824003&extension=ts
+#EXTINF:-1 tvg-id="159096" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/SET_India_logo.svg.png" group-title="Airtel🌹Entertainment",SET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=943926&extension=ts
+#EXTINF:-1 tvg-id="159096" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/SET_India_logo.svg.png" group-title="Airtel🌹Entertainment",SET UK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=858997&extension=ts
+#EXTINF:-1 tvg-id="159099" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png" group-title="Airtel🌹Entertainment",SONY SAB HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944604&extension=ts
+#EXTINF:-1 tvg-id="157973" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY PAL.png" group-title="Airtel🌹Entertainment",SONY PAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373069&extension=ts
+#EXTINF:-1 tvg-id="158149" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/COLORS HD.png" group-title="Airtel🌹Entertainment",COLORS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944612&extension=ts
+#EXTINF:-1 tvg-id="158144" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/colors.png" group-title="Airtel🌹Entertainment",COLORS UK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=824000&extension=ts
+#EXTINF:-1 tvg-id="158239" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Colors_Rishtey_logo.png" group-title="Airtel🌹Entertainment",COLORS RISHTEY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372685&extension=ts
+#EXTINF:-1 tvg-id="159132" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR USTAV HD.png" group-title="Airtel🌹Entertainment",STAR USTAV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=943925&extension=ts
+#EXTINF:-1 tvg-id="159101" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR BHARAT HD.png" group-title="Airtel🌹Entertainment",STAR BHARAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=943734&extension=ts
+#EXTINF:-1 tvg-id="159101" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavbharat.png" group-title="Airtel🌹Entertainment",UTSAV BHARAT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372697&extension=ts
+#EXTINF:-1 tvg-id="142715" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/BIG_Magic_Logo.png" group-title="Airtel🌹Entertainment",BIG MAGIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944626&extension=ts
+#EXTINF:-1 tvg-id="ts744" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/comedyactive.png" group-title="Airtel🌹Entertainment",TATA PLAY COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373050&extension=ts
+#EXTINF:-1 tvg-id="142771" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BHOJPURI/Dangal_TV.png" group-title="Airtel🌹Entertainment",DANGAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373303&extension=ts
+#EXTINF:-1 tvg-id="142772" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DANGAL 2.png" group-title="Airtel🌹Entertainment",DANGAL 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433166&extension=ts
+#EXTINF:-1 tvg-id="158303" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NAZARA TV.png" group-title="Airtel🌹Entertainment",NAZARA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433235&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/theqyou.png" group-title="Airtel🌹Entertainment",THE Q
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373318&extension=ts
+
+###################################################################################################################################################################
+                                                                   MOVIES
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="144443" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE CINEMA FHD.png" group-title="Airtel🌹Movies",ZEE CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=735399&extension=ts
+#EXTINF:-1 tvg-id="159104" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeecinema.png" group-title="Airtel🌹Movies",ZEE CINEMA UK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372695&extension=ts
+#EXTINF:-1 tvg-id="144434" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE ACTION HD.png" group-title="Airtel🌹Movies",ZEE ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=735400&extension=ts
+#EXTINF:-1 tvg-id="144447" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE CLASSIC.png" group-title="Airtel🌹Movies",ZEE CLASSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=735401&extension=ts
+#EXTINF:-1 tvg-id="143856" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR UTSAV MOVIES.png" group-title="Airtel🌹Movies",STAR UTSAV MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=737322&extension=ts
+#EXTINF:-1 tvg-id="143815" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR GOLD HD.png" group-title="Airtel🌹Movies",STAR GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=737323&extension=ts
+#EXTINF:-1 tvg-id="143815" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="Airtel🌹Movies",UTSAV GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=823999&extension=ts
+#EXTINF:-1 tvg-id="158297" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Star_Gold_2.png" group-title="Airtel🌹Movies",STAR GOLD 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372926&extension=ts
+#EXTINF:-1 tvg-id="143817" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR GOLD SELECT FHD.png" group-title="Airtel🌹Movies",STAR GOLD SELECT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=737325&extension=ts
+#EXTINF:-1 tvg-id="142638" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andpictures.png" group-title="Airtel🌹Movies",&PICTURES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944620&extension=ts
+#EXTINF:-1 tvg-id="159098" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="Airtel🌹Movies",SONY MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373074&extension=ts
+#EXTINF:-1 tvg-id="157590" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="Airtel🌹Movies",SONY MAX UK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=824001&extension=ts
+#EXTINF:-1 tvg-id="143801" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="Airtel🌹Movies",SONY MAX 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373073&extension=ts
+#EXTINF:-1 tvg-id="140063" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/B4U MOVIES.png" group-title="Airtel🌹Movies",B4U MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944610&extension=ts
+#EXTINF:-1 tvg-id="158147" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/CINEPLEX HD.png" group-title="Airtel🌹Movies",COLORS CINEPLEX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944627&extension=ts
+#EXTINF:-1 tvg-id="ts1183" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andexplorer04.png" group-title="Airtel🌹Movies",&XPLOR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372925&extension=ts
+#EXTINF:-1 tvg-id="142637" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/miniplex.png" group-title="Airtel🌹Movies",MINIPLEX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373023&extension=ts
+#EXTINF:-1 tvg-id="ts319" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/tatasky.png" group-title="Airtel🌹Movies",TATA PLAY BOLLYWOOD PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373006&extension=ts
+#EXTINF:-1 tvg-id="158298" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/STAR GOLD ROMANCE.png" group-title="Airtel🌹Movies",STAR GOLD ROMANCE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433164&extension=ts
+#EXTINF:-1 tvg-id="158822" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/UTV_Action_Telugu.png" group-title="Airtel🌹Movies",STAR GOLD THRILLS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373005&extension=ts
+#EXTINF:-1 tvg-id="144436" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zee-anmol-cinema.png" group-title="Airtel🌹Movies",ZEE ANMOL CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373000&extension=ts
+#EXTINF:-1 tvg-id="144438" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ZeeETCBollywoodLogo.png" group-title="Airtel🌹Movies",ZEE BOLLYWOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372924&extension=ts
+#EXTINF:-1 tvg-id="142713" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BHOJPURI/hungamadhamaal.png" group-title="Airtel🌹Movies",BHOJPURI CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373302&extension=ts
+#EXTINF:-1 tvg-id="ts741" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY CLASSIC CINEMA.png" group-title="Airtel🌹Movies",TATA PLAY CLASSIC CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433240&extension=ts
+#EXTINF:-1 tvg-id="ts964" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY CLASSIC TV.png" group-title="Airtel🌹Movies",TATA PLAY CLASSIC TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433171&extension=ts
+#EXTINF:-1 tvg-id="ts666" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY THEATRE.png" group-title="Airtel🌹Movies",TATA PLAY THEATRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433241&extension=ts
+
+###################################################################################################################################################################
+                                                                   ENGLISH
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="142636" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andflix.png" group-title="Airtel🌹English",&FLIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372989&extension=ts
+#EXTINF:-1 tvg-id="143803" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY PIX HD.png" group-title="Airtel🌹English",SONY PIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=943971&extension=ts
+#EXTINF:-1 tvg-id="143829" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Star_Movies.png" group-title="Airtel🌹English",STAR MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373304&extension=ts
+#EXTINF:-1 tvg-id="147570" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="Airtel🌹English",MNX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372982&extension=ts
+#EXTINF:-1 tvg-id="147571" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="Airtel🌹English",MOVIES NOW HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372981&extension=ts
+#EXTINF:-1 tvg-id="143830" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/starmoviesselect.png" group-title="Airtel🌹English",STAR MOVIES SELECT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373320&extension=ts
+#EXTINF:-1 tvg-id="143548" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="Airtel🌹English",MN+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372980&extension=ts
+#EXTINF:-1 tvg-id="158150" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Colors_Infinity_logo.png" group-title="Airtel🌹English",COLORS INFINITY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373338&extension=ts
+#EXTINF:-1 tvg-id="144441" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/zeecafe.png" group-title="Airtel🌹English",ZEE CAFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373312&extension=ts
+#EXTINF:-1 tvg-id="143021" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/etnow.png" group-title="Airtel🌹English",ET NOW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373334&extension=ts
+#EXTINF:-1 tvg-id="143302" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/cnbc-tv18-logo-vector.png" group-title="Airtel🌹English",CNBC TV18 NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372985&extension=ts
+#EXTINF:-1 tvg-id="143302" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/timesnow.png" group-title="Airtel🌹English",TIMES NOW HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372984&extension=ts
+#EXTINF:-1 tvg-id="142743" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/cnbctv18.png" group-title="Airtel🌹English",CNBC TV18
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373339&extension=ts
+#EXTINF:-1 tvg-id="157679" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNNHD.png" group-title="Airtel🌹English",CNN INTERNATIONAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373308&extension=ts
+#EXTINF:-1 tvg-id="144087" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/WION.png" group-title="Airtel🌹English",WION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373305&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/BabyTV.png" group-title="Airtel🌹English",BABY TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373053&extension=ts
+
+###################################################################################################################################################################
+                                                                   MUSIC
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="735" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/Sangeet_Marathi.png" group-title="Airtel🌹Music",SANGEET MARATHI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373437&extension=ts
+#EXTINF:-1 tvg-id="90012" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MARATHI/jhakaas9x.png" group-title="Airtel🌹Music",9X JHAKAAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373430&extension=ts
+#EXTINF:-1 tvg-id="158141" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/b4umusic.png" group-title="Airtel🌹Music",B4U MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372970&extension=ts
+#EXTINF:-1 tvg-id="77447" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/9X MUSIC.png" group-title="Airtel🌹Music",9X MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372933&extension=ts
+#EXTINF:-1 tvg-id="440" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/9xjalwa.png" group-title="Airtel🌹Music",9X JALWA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373064&extension=ts
+#EXTINF:-1 tvg-id="159093" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MTV PLUS.png" group-title="Airtel🌹Music",MTV PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433162&extension=ts
+#EXTINF:-1 tvg-id="143563" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Music_India.png" group-title="Airtel🌹Music",MUSIC INDIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373019&extension=ts
+#EXTINF:-1 tvg-id="157600" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zoom.png" group-title="Airtel🌹Music",ZOOM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373061&extension=ts
+#EXTINF:-1 tvg-id="2934" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/BOL HADIPPA PUNJ.png" group-title="Airtel🌹Music",BOL HADIPPA PUNJABI HITS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372923&extension=ts
+#EXTINF:-1 tvg-id="144484" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZING HD.png" group-title="Airtel🌹Music",ZING
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=737321&extension=ts
+
+###################################################################################################################################################################
+                                                                   INFOTAINMENT
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="159013" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/epic.png" group-title="Airtel🌹Infotainment",EPIC TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373033&extension=ts
+#EXTINF:-1 tvg-id="143800" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/sony bbc earth HD.png" group-title="Airtel🌹Infotainment",SONY BBC EARTH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373071&extension=ts
+#EXTINF:-1 tvg-id="158140" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2018_Animal_Planet_logo.svg.png" group-title="Airtel🌹Infotainment",ANIMAL PLANET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944624&extension=ts
+#EXTINF:-1 tvg-id="159106" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Discovery_HD_World.png" group-title="Airtel🌹Infotainment",DISCOVERY WORLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373036&extension=ts
+#EXTINF:-1 tvg-id="159107" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/1200px-Discovery_Science_2017_Logo.png" group-title="Airtel🌹Infotainment",DISCOVERY SCIENCE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373311&extension=ts
+#EXTINF:-1 tvg-id="159108" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Discovery_Turbo.png" group-title="Airtel🌹Infotainment",DISCOVERY TURBO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373309&extension=ts
+#EXTINF:-1 tvg-id="143133" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/History_TV18_29.png" group-title="Airtel🌹Infotainment",HISTORY TV18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373031&extension=ts
+#EXTINF:-1 tvg-id="157811" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DISCOVERY ID.png" group-title="Airtel🌹Infotainment",DISCOVERY ID HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433213&extension=ts
+#EXTINF:-1 tvg-id="143572" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/National_Geographic_Wild_logo.svg.png" group-title="Airtel🌹Infotainment",NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373018&extension=ts
+#EXTINF:-1 tvg-id="143574" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/National_Geographic_Channel_HD.png" group-title="Airtel🌹Infotainment",NATIONAL GEOGRAPHIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373017&extension=ts
+#EXTINF:-1 tvg-id="2757" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ZEE ZEST.png" group-title="Airtel🌹Infotainment",ZEE ZEST HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433161&extension=ts
+#EXTINF:-1 tvg-id="561" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/foodfood.png" group-title="Airtel🌹Infotainment",FOOD FOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372942&extension=ts
+#EXTINF:-1 tvg-id="560" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Ndtv-good-times-new-logo.png" group-title="Airtel🌹Infotainment",GOOD TIMES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372949&extension=ts
+
+###################################################################################################################################################################
+                                                                   SPORTS
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="158255" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddsport.png" group-title="Airtel🌹Sports",DD SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373043&extension=ts
+#EXTINF:-1 tvg-id="143808" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/SPORTS 18 ENGLISH.png" group-title="Airtel🌹Sports",SPORTS 18 HD HINDI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373193&extension=ts
+#EXTINF:-1 tvg-id="143838" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/starsports1.png" group-title="Airtel🌹Sports",STAR SPORTS 1 HD HINDI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373205&extension=ts
+#EXTINF:-1 tvg-id="143837" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/starsports1.png" group-title="Airtel🌹Sports",STAR SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373206&extension=ts
+#EXTINF:-1 tvg-id="143845" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/STAR%20Sports%202%20logo.png" group-title="Airtel🌹Sports",STAR SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373204&extension=ts
+#EXTINF:-1 tvg-id="143846" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/StarSports3.png" group-title="Airtel🌹Sports",STAR SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373203&extension=ts
+#EXTINF:-1 tvg-id="143849" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" group-title="Airtel🌹Sports",STAR SPORTS SELECT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373202&extension=ts
+#EXTINF:-1 tvg-id="143851" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" group-title="Airtel🌹Sports",STAR SPORTS SELECT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373201&extension=ts
+#EXTINF:-1 tvg-id="159126" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/TEN_1_HD_1.png" group-title="Airtel🌹Sports",SONY TEN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373200&extension=ts
+#EXTINF:-1 tvg-id="159127" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" group-title="Airtel🌹Sports",SONY TEN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373199&extension=ts
+#EXTINF:-1 tvg-id="159128" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" group-title="Airtel🌹Sports",SONY TEN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373198&extension=ts
+#EXTINF:-1 tvg-id="159128" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/willowcricket.png" group-title="Airtel🌹Sports",WILLOW CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373197&extension=ts
+#EXTINF:-1 tvg-id="159129" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddsport.png" group-title="Airtel🌹Sports",SONY TEN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373196&extension=ts
+#EXTINF:-1 tvg-id="159010" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/sports18.png" group-title="Airtel🌹Sports",EUROSPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373194&extension=ts
+
+###################################################################################################################################################################
+                                                                   KIDS
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="159100" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY YAY.png" group-title="Airtel🌹Kids",SONY YAY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373067&extension=ts
+#EXTINF:-1 tvg-id="157576" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/CN PLUS HD.png" group-title="Airtel🌹Kids",CN PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372977&extension=ts
+#EXTINF:-1 tvg-id="159121" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/nichplus.png" group-title="Airtel🌹Kids",NICK PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433214&extension=ts
+#EXTINF:-1 tvg-id="142989" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/disneyinternational.png" group-title="Airtel🌹Kids",DISNEY INTERNATIONAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372979&extension=ts
+#EXTINF:-1 tvg-id="159012" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/DISNEY SD.png" group-title="Airtel🌹Kids",DISNEY SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372986&extension=ts
+#EXTINF:-1 tvg-id="143663" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Pogo_2004.png" group-title="Airtel🌹Kids",POGO KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372993&extension=ts
+#EXTINF:-1 tvg-id="159011" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2016_Discovery_Kids_logo.svg.png" group-title="Airtel🌹Kids",DISCOVERY KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372928&extension=ts
+#EXTINF:-1 tvg-id="142990" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DISNEY JUNIOR.png" group-title="Airtel🌹Kids",DISNEY JUNIOR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433165&extension=ts
+#EXTINF:-1 tvg-id="143150" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/HUNGAMA KIDS.png" group-title="Airtel🌹Kids",HUNGAMA KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433211&extension=ts
+
+###################################################################################################################################################################
+                                                                    DEVOTIONAL
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="158133" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Aastha_Logo.svg.png" group-title="Airtel🌹Devotional",AASTHA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373060&extension=ts
+#EXTINF:-1 tvg-id="142514" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/AASTHA BHAJAN.png" group-title="Airtel🌹Devotional",AASTHA BHAJAN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373059&extension=ts
+#EXTINF:-1 tvg-id="143131" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Arihant_TV.png" group-title="Airtel🌹Devotional",DHARM SANDESH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=944625&extension=ts
+#EXTINF:-1 tvg-id="143642" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/paras.png" group-title="Airtel🌹Devotional",PARAS GOLD ONE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373010&extension=ts
+#EXTINF:-1 tvg-id="144069" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/vedictv.png" group-title="Airtel🌹Devotional",VEDIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=373003&extension=ts
+#EXTINF:-1 tvg-id="143783" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Shubh.png" group-title="Airtel🌹Devotional",SHUBH TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372945&extension=ts
+#EXTINF:-1 tvg-id="143713" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sanskarv.png" group-title="Airtel🌹Devotional",SANSKAR TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372930&extension=ts
+#EXTINF:-1 tvg-id="143766" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Satsang.png" group-title="Airtel🌹Devotional",SATSANG TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372929&extension=ts
+#EXTINF:-1 tvg-id="143010" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Divya.png" group-title="Airtel🌹Devotional",DIVYA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=372914&extension=ts
+#EXTINF:-1  tvg-id="159015" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ISHAARA TV.png" group-title="Airtel🌹Devotional",ISHARA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433191&extension=ts
+#EXTINF:-1 tvg-id="143102" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/KRISHNA VANI.png" group-title="Airtel🌹Devotional",KRISHNA VANI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433168&extension=ts
+#EXTINF:-1 tvg-id="ts458" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SHUBH CINEMA TV.png" group-title="Airtel🌹Devotional",SHUBH CINEMA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B2:4D:59&stream=1433200&extension=ts
+
 ###################################################################################################################################################################
                                                                      SAMSUNG TV
 ###################################################################################################################################################################
