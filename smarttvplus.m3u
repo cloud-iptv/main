@@ -1,6 +1,39 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz"
-
+###################################################################################################################################################################
+                                                                   HOTSTAR
+###################################################################################################################################################################
+#EXTINF:-1 tvg-id="143832" tvg-logo="https://whythishome.github.io/epg/logos/in/star-plus-hd.png" group-title="Star⭐Entertainment",Star Plus HD
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="158297" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ipooj3O5.png" group-title="Star⭐Movies",Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="143815" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png" group-title="Star⭐Movies",Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="143817" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sLCJGc6R.png" group-title="Star⭐Movies",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="143830" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/glgBSfm7.png" group-title="Star⭐Movies",Star Movies Select HD
+http://103.229.254.25:7001/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="143829" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" group-title="Star⭐Movies",Star Movies HD
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="158298" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" group-title="Star⭐Movies",Star Gold Romance
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id="158822" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" group-title="Star⭐Movies",Star Gold Thrills
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="143856" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png" group-title="Star⭐Movies",Star Utsav Movies
+http://116.90.120.151:8000/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-id="159093" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/opH5xUnD.png" group-title="Star⭐Music",MTV HD Plus
+http://103.229.254.25:7001/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="143574" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eMflO13P.png" group-title="Star⭐Infotainment",National Geographic HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="143808" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" group-title="Star⭐Sports",Star Sports 2 Hindi HD
+http://103.229.254.25:7001/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="143837" tvg-logo="https://whythishome.github.io/epg/logos/in/star-sports-1-hd.png" group-title="Star⭐Sports",Star Sports 1 HD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="143839" tvg-logo="https://whythishome.github.io/epg/logos/in/star-sports-1-hindi.png" group-title="Star⭐Sports",Star Sports 1 Hindi
+http://103.229.254.25:7001/play/a0dn/index.m3u8
+###################################################################################################################################################################
+                                                                  NEW SERVER ✔️
+###################################################################################################################################################################
 #EXTINF:-1 group-title="NEW SERVER ✔️",TEN 3 Hindi - Rs 19.00
 http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️",&Prive HD - Rs 6.00
