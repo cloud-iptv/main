@@ -1,9 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="TEST",TEST
-https://m3uplay.com/jeo/watch/3100JP|Referer=https://tulnit.com/
+https://m3uplay.com/jeo/watch/3100JP|Referer=https://tulnit.com|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="TEST",TEST 2
-https://m3uplay.com/jeo/watch/3100JP|Referer=https://tulnit.com|Referer=https://m3uplay.com
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://m3uplay.com
+https://m3uplay.com/jeo/watch/3100JP|Referer=https://tulnit.com
+
+#EXTINF:-1,Channel 2
+#EXTHTTP:{"Referer":"https://tulnit.com","User-Agent":"Mozilla/5.0"}
+https://m3uplay.com/jeo/watch/3100JP|Referer=https://m3uplay.com
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
