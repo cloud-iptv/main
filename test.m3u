@@ -7,11 +7,6 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://m3uplay.com
 https://m3uplay.com/jeo/watch/3100JP|Referer=https://tulnit.com
 
-#EXTINF:-1 tvg-id="ts666" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-m4.png",Tata Play Theatre HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dev.denver69.fun/TP/key.php?id=666
-https://dev.denver69.fun/TP/manifest.mpd?id=666|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&X-User-Agent="TiviMate/5.2.0 (Android 11)"
-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
