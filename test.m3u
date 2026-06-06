@@ -15,9 +15,6 @@ https://9x.cdn.runn.tv/9XM/master.m3u8
 https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
-https://jiotvmblive.cdn.jio.com/bpk-tv/9xm/HLSPartner/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q4ao9zhscna6u.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
