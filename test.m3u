@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="144478" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png" group-title="𝑫𝒊𝒔𝒉𝑻𝑽♾️ Entertainment", Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=521a011c42b14bb18e3b1680bbef74b6:88be9076424d41ffac0c12ca74e879d0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryhd2/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8|Referer=https://tulnit.com/
 
