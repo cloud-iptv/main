@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="144478" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png" group-title="𝑫𝒊𝒔𝒉𝑻𝑽♾️ Entertainment", Discovery HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) LazyyXD/69.69 ExoPlayerLib/824.0
+#EXTINF:-1 tvg-id="100869" tvg-logo="https://dtil.tmsimg.com/assets/s100869_ld_h15_aa.png" group-title="𝑫𝒊𝒔𝒉𝑻𝑽♾️ Infotainment",Discovey Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://axis.lazyspace.online/secure/dishtv/license/dishtv47/084kejtk/2328144404/e99be1e8202d85c1b74a98b7dbcad5d9/license.json
+#KODIPROP:inputstream.adaptive.license_key=521A011C42B14BB18E3B1680BBEF74B6:7d81feb84ed84bd88fdc5ca9de3c16da
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryhd2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="Music",9XM
 https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8|Referer=https://tulnit.com/
