@@ -41,6 +41,11 @@ https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,9xmvid
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/155/master.m3u8
 
+#EXTINF:-1 tvg-id="159298" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="𝑫𝒊𝒔𝒉𝑻𝑽♾️ News", Zee News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews2/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyrag.png" group-title="Music",NH BollyRaga
 https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 
