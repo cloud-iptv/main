@@ -418,7 +418,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
 #EXTINF:-1 tvg-id="505.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Berita_RTM_TVGuide.png" group-logo="https://d1kuznfi1q1kpt.cloudfront.net/corp/media/2026-05/683969ba6d4cd0ba57f20998_Astro%2520Go%2520Logo_FA_FC_Reversed_CMYK.jpg" group-title="AstroGo🔭News",Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"crHc8JJv8SgsREwvSzjyZg","kid":"nPKM-b4piHhoE7l5NyGOEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5213/default_primary.mpd
 
 #EXTINF:-1 tvg-id="511.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-logo="https://d1kuznfi1q1kpt.cloudfront.net/corp/media/2026-05/683969ba6d4cd0ba57f20998_Astro%2520Go%2520Logo_FA_FC_Reversed_CMYK.jpg" group-title="AstroGo🔭News",CNN HD
