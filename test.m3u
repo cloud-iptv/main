@@ -9,6 +9,9 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTINF:-1 tvg-id="8591476c972f486e98a7c081bba74fd0" tvg-name="Willow Sports" tvg-logo="http://p-img.movetv.com/1280x720/07b633645a9db7d0d0b8bcf8c86a8f5c.png" group-logo="https://www.logo.wine/a/logo/Sling_TV/Sling_TV-Logo.wine.svg" group-title="SLING TV",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ae993e3f72e849aab121396cef98e450" tvg-name="YRF Music" tvg-logo="http://p-img.movetv.com/1280x720/196a15781456a01e024336fc52320df8.png" group-logo="https://www.logo.wine/a/logo/Sling_TV/Sling_TV-Logo.wine.svg" group-title="SLING TV",YRF Music
+https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
+
 #EXTINF:-1 tvg-id="100869" tvg-logo="https://dtil.tmsimg.com/assets/s100869_ld_h15_aa.png" group-title="𝑫𝒊𝒔𝒉𝑻𝑽♾️ Infotainment",Discovey Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=521A011C42B14BB18E3B1680BBEF74B6:7d81feb84ed84bd88fdc5ca9de3c16da
